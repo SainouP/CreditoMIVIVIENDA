@@ -1,3 +1,4 @@
+#NECESITAS LO SIGUIENTE
 Django==4.2.7, 
 psycopg2-binary==2.9.10, 
 python-decouple==3.8, 
