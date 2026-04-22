@@ -1,12 +1,8 @@
 ## Miembros
 
 - Acosta Dias Aaron Fabricio
-- Arana Soto Joseph Terrry
 - Del Carpio Arenas Christopher
-- Edquen Fustamante Cesar Stalin
 - Jara Perez Rodrigo Ramiro
-- Tadea Atachagua Michael Smith
-- Zuñiga Murillo Diego Sebastian
 
 ## Tecnologías utilizadas
 
