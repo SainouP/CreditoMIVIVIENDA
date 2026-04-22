@@ -1,7 +1,0 @@
-"""
-Archivo de ejemplo para migración de estructure de carpeta en Django
-"""
-import sys
-sys.path.insert(0, 'mivivienda_project')
-
-# Ejemplo de configuración en manage.py para desarrollo local
